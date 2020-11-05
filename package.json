@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "gatsby develop",
-    "build": "gatsby build",
+    "docz:build": "docz build",
     "serve": "gatsby serve"
   },
   "dependencies": {
